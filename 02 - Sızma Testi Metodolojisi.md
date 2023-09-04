@@ -28,4 +28,4 @@ Günün sonunda Sızma Testi Raporu hazırlamanız gerekmektedir. Bu raporun iç
 - Savunma yöntemleri
 - Saldir kombinasyonlar
 
-
+> Raporunuza ek olarak, buludğunuz bu zafiyetlerin nasıl giderilebileceği hakkında bilmek vermek, müşteriniz ve kurumunuz için oldukça önemli bir konudur. 
